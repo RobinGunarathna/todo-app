@@ -4,6 +4,12 @@ body {
     padding-top: 50px;
 }
 
+
+a, p {
+    color: #0074D9;
+}
+
+
 .container {
     max-width: 550px;
     margin: auto;
