@@ -77,3 +77,17 @@ p {
     border-top: 1px solid #dfe4ea;
     overflow: hidden;
 }
+
+.add-link {
+    color: #EB796F;
+    text-decoration: none;
+    font-size: 42px;
+    text-shadow: 1px 1px #81413b;
+}
+
+/*.search-add-task-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}*/

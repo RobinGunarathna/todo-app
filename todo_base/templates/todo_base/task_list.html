@@ -13,12 +13,15 @@
 </div>
 
 <hr>
-<!-- <h1>Todo list</h1>
-<a href="{% url 'task-create' %}">add task</a>
-<form method="GET">
-    <input type="text" name="search-area" value="{{search_input}}">
-    <input type="submit" value="Search">
-</form> -->
+<div class="search-add-task-wrapper">
+    <form method="GET" style="margin-top: 20px;display: flex;">
+        <input type="text" name="search-area" value="{{search_input}}">
+        <input type="submit" value="Search">
+    </form>
+    <hr>
+    <a class="add-link" href="{% url 'task-create' %}">add task &#x2b;</a>
+</div>
+<h1>Todo list</h1>
 <div class="task-list-wrapper">
     {% for task in tasks %}
     <div class="task-wrapper">
