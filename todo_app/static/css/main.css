@@ -5,8 +5,7 @@ body {
 }
 
 
-a,
-p {
+a p {
     color: #0074D9;
 }
 
@@ -31,6 +30,23 @@ p {
 
 .header-bar a {
     color: rgb(247, 247, 247);
+}
+
+.header-bar-two {
+    justify-content: space-between;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px 5px 0 0;
+    background: linear-gradient(90deg, #9B2335 0%, #DD4124 43%, #9B2335 100%);
+    #9B2335
+}
+
+.header-bar-two a {
+    color: rgb(247, 247, 247);
+}
+
+.center-form {
+    padding: 25px;
 }
 
 
@@ -85,9 +101,34 @@ p {
     text-shadow: 1px 1px #81413b;
 }
 
-/*.search-add-task-wrapper {
+.search-add-task-wrapper {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 20px;
-}*/
+}
+
+input[type=text],
+input[type=password],
+textarea {
+    border: 1px solid #757575;
+    border-radius: 5px;
+    padding: 10px;
+    width: 90%;
+}
+
+label {
+    padding-top: 10px !important;
+    display: block;
+}
+
+.button {
+    border: 1px solid #757575;
+    background-color: #FFF;
+    color: #EB796F;
+    padding: 10px;
+    font-size: 14px;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+}

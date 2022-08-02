@@ -1,6 +1,8 @@
 {% extends 'todo_base/main.html' %}
 {% block content %}
-<a href="{% url 'tasks' %}">Back</a>
+<div class="header-bar-two">
+    <a href="{% url 'tasks' %}">Back</a>
+</div>
 <form method="post">
     {% csrf_token %}
     <p>Are you sure that you want to delete this task? "{{task}}"</p>
