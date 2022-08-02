@@ -20,3 +20,4 @@ https://ccbv.co.uk/
 https://docs.djangoproject.com/en/3.1/ref/class-based-views/mixins-single-object/#django.views.generic.detail.SingleObjectMixin.get_context_data
 https://fonts.google.com/specimen/Raleway
 https://www.toptal.com/designers/htmlarrows/
+https://www.youtube.com/watch?v=RE0HlKch_3U&t=0s
