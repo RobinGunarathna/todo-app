@@ -96,8 +96,8 @@ a p {
 
 .add-link {
     color: #EB796F;
-    text-decoration: none;
-    font-size: 42px;
+    text-decoration: underline;
+    font-size: 38px;
     text-shadow: 1px 1px #81413b;
 }
 
