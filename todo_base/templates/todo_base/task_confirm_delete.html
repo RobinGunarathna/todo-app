@@ -1,6 +1,8 @@
 {% extends 'todo_base/main.html' %}
 {% block content %}
 <div class="header-bar-two">
+    <div onload="renderTime();" id="clockDisplay"></div>
+    <hr>
     <a href="{% url 'tasks' %}">&#8592;Back</a>
 </div>
 <div class="center-form">
