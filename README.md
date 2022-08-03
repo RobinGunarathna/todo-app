@@ -21,3 +21,5 @@ https://docs.djangoproject.com/en/3.1/ref/class-based-views/mixins-single-object
 https://fonts.google.com/specimen/Raleway
 https://www.toptal.com/designers/htmlarrows/
 https://www.youtube.com/watch?v=RE0HlKch_3U&t=0s
+https://www.youtube.com/watch?v=5zNR3E6WRLE
+https://docs.djangoproject.com/en/1.11/ref/models/fields/
