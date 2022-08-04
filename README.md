@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/95103308/182924138-8a58636b-ac9b-4642-9e2c-f99a24287990.png)
+
+Deployed link: https://todo-app-p4.herokuapp.com/login/?next=/
+
 1. Purpose of the project
 2. user stories
 3. Features
@@ -24,4 +28,3 @@ https://www.youtube.com/watch?v=RE0HlKch_3U&t=0s
 https://www.youtube.com/watch?v=5zNR3E6WRLE
 https://docs.djangoproject.com/en/1.11/ref/models/fields/
 https://docs.google.com/document/d/1P5CWvS5cYalkQOLeQiijpSViDPogtKM7ZGyqK-yehhQ/edit
-https://todo-app-p4.herokuapp.com/login/?next=/
