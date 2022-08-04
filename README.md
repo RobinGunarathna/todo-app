@@ -23,3 +23,4 @@ https://www.toptal.com/designers/htmlarrows/
 https://www.youtube.com/watch?v=RE0HlKch_3U&t=0s
 https://www.youtube.com/watch?v=5zNR3E6WRLE
 https://docs.djangoproject.com/en/1.11/ref/models/fields/
+https://docs.google.com/document/d/1P5CWvS5cYalkQOLeQiijpSViDPogtKM7ZGyqK-yehhQ/edit
