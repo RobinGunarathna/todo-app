@@ -27,7 +27,7 @@ TEMPLATES_DIR = os.path.join(BASE_DIR, 'todo_base/templates')
 SECRET_KEY = os.environ.get('SECRET_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['todo-app-p4.herokuapp.com', 'localhost']
 
