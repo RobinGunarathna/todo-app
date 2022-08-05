@@ -167,6 +167,10 @@ button text is red/orange.
 Text font used is Raleway. (link in credits)
 
 # 8. wireframes
+
+![image](https://user-images.githubusercontent.com/95103308/182991477-2d2ed6b1-ec91-4e63-9d09-fa28bf0e26f7.png)
+
+
 # 9. Technology
 Django, python, javascript ,html and css.
 
