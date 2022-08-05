@@ -182,6 +182,43 @@ sqlparse==0.4.2
 
 # 10. testing
    ## 10.1 code validation
+   Python validation:
+   https://www.pythonchecker.com/
+   
+   The model:
+   
+   ![image](https://user-images.githubusercontent.com/95103308/182987876-9df62103-434c-4a45-8024-d142685f6ea0.png)
+   
+   views.py : 
+   
+   ![image](https://user-images.githubusercontent.com/95103308/182988468-d1468f5b-1aa9-4c88-bcd6-769fa2e5798b.png)
+   
+   I have some linter problems and very small pep8 issues. Afraid if I change anything now in a hurry before i turn the project in that I will break the code
+   
+   And I can hardly keep my eyes open (5 am soon). Hopefully I still pass :(. 
+   
+   In the future I will make sure the check immediately when im done with a few lines of code that I don't have any issues
+   
+   Did not wan't to put my time on that while i was coding cause I was allready low on time.
+   
+   Atleast everything works :)!
+   
+   Lighthouse:
+   
+   ![image](https://user-images.githubusercontent.com/95103308/182985142-31de9204-f911-4980-8577-cc1fe64ef56f.png)
+   
+   CSS validation:
+   
+   ![image](https://user-images.githubusercontent.com/95103308/182985797-5dedcce5-a22f-4310-a27e-8af31fb8b804.png)
+   
+   Javascript validation:
+   
+   ![image](https://user-images.githubusercontent.com/95103308/182986376-58dad5b9-810e-4afd-995d-9b5abe70e65f.png)
+   
+   Don't know what to do with line 36 semicolon is there and code works so renderTime should be defined.
+   
+   (confused and don't have time before the deadline to check with tutor assistance)
+   
    ## 10.2 test cases (user story based with screenshots)
    while in development before i got the logout to work I tested if the redirect worked by deleting my session id in dev tools.
 
