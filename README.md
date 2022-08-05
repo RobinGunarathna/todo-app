@@ -221,7 +221,7 @@ sqlparse==0.4.2
 
   To test if the database is working i ran python3 manage.py migrate in the terminal and all the migrates happened again in heroku postgres.
 
-  ## 11.3 get static files stored on cloudinary
+  ## 11.3 get static files stored on cloudinary and deploy
   Create an account and copy the api environment variable  that's on your dashboard.
 
   add this to your env.py file
