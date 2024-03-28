@@ -10,7 +10,7 @@ A first time user will se this page:
 
 ![image](https://user-images.githubusercontent.com/95103308/182943338-779e3bfd-aaa6-43ff-b1e5-ed0548a6efa0.png)
 
-If you have an account just sing in if you dont have one press on sign up. It will look like this:
+If you have an account just sign in if you dont have one press on sign up. It will look like this:
 
 ![image](https://user-images.githubusercontent.com/95103308/182944240-ed32275d-0ba5-4e81-bec8-1644624d46a8.png)
 
@@ -197,14 +197,7 @@ sqlparse==0.4.2
    
    ![image](https://user-images.githubusercontent.com/95103308/182988468-d1468f5b-1aa9-4c88-bcd6-769fa2e5798b.png)
    
-   I have some linter problems and very small pep8 issues. Afraid if I change anything now in a hurry before i turn the project in that I will break the code
-   
-   And I can hardly keep my eyes open (5 am soon). Hopefully I still pass :(. 
-   
-   In the future I will make sure the check immediately when im done with a few lines of code that I don't have any issues
-   
-   Did not wan't to put my time on that while i was coding cause I was allready low on time.
-   
+   I have some linter problems and very small pep8 issues.
    Atleast everything works :)!
    
    Lighthouse:
